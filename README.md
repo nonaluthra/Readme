@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on **Web Project**
 
-- 🌱 I’m currently learning **React & NodeJS**
-
 - 👯 I’m looking to collaborate on **Web Project**
 
 - 📝 I regularly write articles on [https://dev.to/nonalutha](https://dev.to/nonaluthra)
 
 - 📫You Can Reach me on **nonaluthra@gmail.com**
 
-- 📄Download My Resume [https://bit.ly/nonaresume](https://bit.ly/nonaresume)
+- 📄Download My Resume {https://docs.google.com/document/d/1Mt4DJsDQJIvAlr_4hAtiDKhpftWrlNBJW9-0BBuoKjE/edit?usp=sharing}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
