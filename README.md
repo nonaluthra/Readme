@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nona Luthra</h1>
 <h3 align="center">A passionate about Programming & Web Designing</h3>
 
-- 🔭 I’m currently working on **Web Project**
-
-- 👯 I’m looking to collaborate on **Web Project**
-
+- 🔭 I’m currently working as an SDE Intern @HP Inc.
+  
 - 📝 I regularly write articles on [https://dev.to/nonalutha](https://dev.to/nonaluthra)
 
 - 📫You Can Reach me on **nonaluthra@gmail.com**
